@@ -58,8 +58,7 @@ $(function() {
             blockId = $this.data('collapse');
 
 
-        $this.toggleClass("active")
-        $(blockId).slideToggle();
+        $this.toggleClass("active");
     });
 
 
